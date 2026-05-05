@@ -30,7 +30,7 @@ This repository contains my initial steps into the world of Python, covering bas
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com](https://github.com/ATechopS/python.git
+   git clone https://github.com/ATechopS/python.git
    ```
 2. **Run a specific file:**
    ```bash
