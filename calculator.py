@@ -1,11 +1,12 @@
 a=int(input("enter first number: "))
-b=int(input("enter second number: "))
+b=int(input("enter second  number: "))
 sank=input("enter what you want to do: ")
 
 # here created conditional statement according to input given by user what user want to 
 def text():
     print("Your Answer is here:")
 
+print("now")
 
 if(sank=="+") :
     text()
